@@ -104,4 +104,4 @@ The `API/` directory contains backend modules responsible for handling the main 
 
 ## Disclaimer
 
-This project is intended for academic and demonstration purposes. For production use, additional work is required in security, privacy compliance, database protection, authentication, logging, and deployment configuration.
+This project is intended for academic and demonstration purposes. For production use, additional work is required in security, privacy compliance, and deployment configuration.
